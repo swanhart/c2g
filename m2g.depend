@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1519620293 source:/home/eric/Dropbox/workspace/CB/m2g/main.cpp
+	<iostream>
+	"config.h"
+
+1519421983 source:/home/eric/Dropbox/workspace/CB/m2g/src/db.cpp
+	"db.h"
+
+1519427524 /home/eric/Dropbox/workspace/CB/m2g/include/db.h
+	<sqlite3.h>
+	<string>
+	"config.h"
+
+1521506434 /home/eric/Dropbox/workspace/CB/m2g/include/config.h
+	<string>
+	<vector>
+	<iostream>
+
+1521506568 source:/home/eric/Dropbox/workspace/CB/m2g/src/config.cpp
+	<boost/property_tree/ptree.hpp>
+	<boost/property_tree/ini_parser.hpp>
+	<boost/filesystem.hpp>
+	"config.h"
+
